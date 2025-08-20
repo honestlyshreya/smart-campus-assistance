@@ -99,9 +99,9 @@ function getUserName(studentId) {
   // Simple mapping for demo purposes
   const userNames = {
     S001: "Rohit Sharma",
-    S002: "Priya Patel",
-    S003: "Amit Kumar",
-    T001: "Dr. Rajesh Gupta",
+    S002: "Shreya Ranjan",
+    S003: "Sakshi Srivastwa",
+    T001: "prof.Koushik Bhattacharya",
     T002: "Prof. Sunita Verma",
   }
 
@@ -283,3 +283,4 @@ function addInteractiveFeatures() {
 document.addEventListener("DOMContentLoaded", () => {
   setTimeout(addInteractiveFeatures, 200)
 })
+
